@@ -1,0 +1,7 @@
+body {
+    background: url('https://ak8.picdn.net/shutterstock/videos/7341628/thumb/1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
